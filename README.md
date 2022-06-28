@@ -55,7 +55,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-rafat-safan&show_icons=true&locale=en&layout=compact" alt="mohamed-rafat-safan" /></p>
-
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-rafat-safan&show_icons=true&locale=en" alt="mohamed-rafat-safan" /></p>
 
