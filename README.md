@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **mobile applications by Language Kotlin**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Mohamed-Rafat-Safan](https://github.com/Mohamed-Rafat-Safan)](https://github.com/Mohamed-Rafat-Safan?tab=repositories)
+- 👨‍💻 All of my projects are available at [ https://github.com/Mohamed-Rafat-Safan?tab=repositories ]
 
 - 📝 I regularly write articles on [programming languages](programming languages)
 
@@ -24,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohsmed_rafat3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsmed_rafat3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-rafat-73817a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-rafat-73817a203" height="30" width="40" /></a>
+<a href="https://twitter.com/Mohamed_Rafat3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsmed_rafat3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ra-afat-73817a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-rafat-73817a203" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16408940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16408940" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed rafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed rafat" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamadsafane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamadsafane" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohamed rafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamed rafat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100014307460850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed rafat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohamed_raafat_2468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamadsafane" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzbGH0CCtsGXTlvJ9zkRgEw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamed rafat" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed_rafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_rafat" height="30" width="40" /></a>
 </p>
 
