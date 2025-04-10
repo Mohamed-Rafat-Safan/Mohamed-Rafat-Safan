@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-raafat-safan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="My LinkedIn" />
   </a>
 </p>
 
