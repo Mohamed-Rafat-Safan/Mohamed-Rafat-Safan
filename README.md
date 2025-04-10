@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ https://github.com/Mohamed-Rafat-Safan?tab=repositories ]
 
-- 📝 I regularly write articles on [programming languages](programming languages)
+- 📝 I am android developer with more than Three years of experience in designing, developing, and maintaining high-performance mobile applications using Kotlin & Java. Strong expertise in MVVM , Clean Architecture, DaggerHilt and Retrofit. Deep understanding of the Android SDK, with a passion for problem-solving. Adept at working both independently and collaboratively in a team environment.
 
 - 💬 Ask me about **Android**
 
