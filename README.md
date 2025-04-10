@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-rafat-safan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-rafat-safan" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohamed-raafat-safan/" target="_blank"> <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-raafat-safan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 - 📝 I am android developer with more than Three years of experience in designing, developing, and maintaining high-performance mobile applications using Kotlin & Java. Strong expertise in MVVM , Clean Architecture, DaggerHilt and Retrofit. Deep understanding of the Android SDK, with a passion for problem-solving. Adept at working both independently and collaboratively in a team environment.
 
