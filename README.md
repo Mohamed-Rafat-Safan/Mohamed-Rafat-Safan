@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohsmed_rafat3" target="blank"><img src="https://img.shields.io/twitter/follow/mohsmed_rafat3?logo=twitter&style=for-the-badge" alt="mohsmed_rafat3" /></a> </p>
 
-- 🌱 I’m currently learning **mobile applications by Language Kotlin**
+- 🌱 I’m currently learning **Android Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [ https://github.com/Mohamed-Rafat-Safan?tab=repositories ]
 
